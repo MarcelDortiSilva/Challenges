@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682183454 source:c:\users\marce\documents\c_programming\02_chat_gpt_challenge\getfile.c
+	<stdio.h>
+	<string.h>
+
