@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686410796 source:c:\users\marce\documents\c_programming\guess_game_for_loop\guess_game_for.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
