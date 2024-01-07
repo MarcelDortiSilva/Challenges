@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704654531 source:c:\users\marce\documents\c_programming\challenge_struct_challenge\struct_challenge.c
+	<stdio.h>
+	<stdlib.h>
+
