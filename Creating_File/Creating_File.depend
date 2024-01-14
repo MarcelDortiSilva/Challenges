@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705243627 source:c:\users\marce\documents\c_programming\creating_file\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
